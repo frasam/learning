@@ -1,2 +1,3 @@
 # learning
-learning the essentials of github
+learning the essentials of github.
+thank you
